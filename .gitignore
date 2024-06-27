@@ -43,3 +43,5 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+Assets/TextMesh Pro/Shaders
+Assets/TextMesh Pro
